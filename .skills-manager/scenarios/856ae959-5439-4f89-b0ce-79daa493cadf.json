@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "856ae959-5439-4f89-b0ce-79daa493cadf",
+  "name": "通用核心",
+  "description": "所有已安装智能体共用：技能管理、平台检索、截图、短信/验证码读取和简洁交付纪律",
+  "icon": null,
+  "sort_order": 0
+}

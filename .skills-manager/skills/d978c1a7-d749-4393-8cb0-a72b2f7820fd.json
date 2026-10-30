@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "d978c1a7-d749-4393-8cb0-a72b2f7820fd",
+  "path": "amazon-white-background",
+  "path_key": "amazon-white-background",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

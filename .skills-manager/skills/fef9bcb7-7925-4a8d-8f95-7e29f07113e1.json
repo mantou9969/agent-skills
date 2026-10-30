@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "fef9bcb7-7925-4a8d-8f95-7e29f07113e1",
+  "path": "make-a-video",
+  "path_key": "make-a-video",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

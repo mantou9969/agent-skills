@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "f441cf5b-78e3-4619-b426-d83a0ff0fc90",
+  "path": "xiaohongshu-store-console",
+  "path_key": "xiaohongshu-store-console",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "ops",
+    "xhs"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

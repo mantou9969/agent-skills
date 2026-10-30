@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "8db0e96b-8a3a-4165-9dc8-2f220ecbf98c",
+  "path": "hyperframes",
+  "path_key": "hyperframes",
+  "enabled": true,
+  "tags": [
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

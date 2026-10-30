@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "bee1d8c8-eeff-427b-83e3-436e98db22b9",
+  "path": "batch-background-swap",
+  "path_key": "batch-background-swap",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

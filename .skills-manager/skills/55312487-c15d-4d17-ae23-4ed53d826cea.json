@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "55312487-c15d-4d17-ae23-4ed53d826cea",
+  "path": "product-shots-social-post",
+  "path_key": "product-shots-social-post",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

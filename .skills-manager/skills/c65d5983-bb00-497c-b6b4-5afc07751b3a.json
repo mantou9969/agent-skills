@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "c65d5983-bb00-497c-b6b4-5afc07751b3a",
+  "path": "book-sales-video",
+  "path_key": "book-sales-video",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

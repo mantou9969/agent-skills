@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "86dcdcbd-9e13-4b92-9a94-c3ab7bf97e2c",
+  "name": "娱乐剪辑",
+  "description": "非工作娱乐区：想剪就剪、想玩就玩；短片、动画、科普、代码电影和AI视频，允许因环境缺失而暂时跑不通",
+  "icon": null,
+  "sort_order": 999
+}

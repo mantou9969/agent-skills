@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "228e8990-5b27-47d5-b136-1f7d18aafbe7",
+  "path": "selling-point-infographic",
+  "path_key": "selling-point-infographic",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

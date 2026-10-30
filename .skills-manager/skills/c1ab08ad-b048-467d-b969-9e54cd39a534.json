@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1ab08ad-b048-467d-b969-9e54cd39a534",
+  "path": "guizang-social-card-skill",
+  "path_key": "guizang-social-card-skill",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "image",
+    "ops",
+    "xhs"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

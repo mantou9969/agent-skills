@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d8205cd-5573-4032-b1db-bcfadd6d91f6",
+  "path": "ecommerce-listing-suite",
+  "path_key": "ecommerce-listing-suite",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "ops"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

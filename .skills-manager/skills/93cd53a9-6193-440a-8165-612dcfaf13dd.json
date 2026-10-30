@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "93cd53a9-6193-440a-8165-612dcfaf13dd",
+  "path": "linkpix-sales-video",
+  "path_key": "linkpix-sales-video",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "external-service",
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

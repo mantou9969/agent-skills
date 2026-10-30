@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "e61a6817-f0d7-4583-b597-9ec0a233a033",
+  "name": "电商运营",
+  "description": "选品、上架、抖店与千帆运营、文案、发布和店铺工作流；支持登录短信验证；不负责图像生成",
+  "icon": "🛒",
+  "sort_order": 999
+}

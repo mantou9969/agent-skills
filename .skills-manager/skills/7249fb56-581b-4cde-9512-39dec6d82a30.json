@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "7249fb56-581b-4cde-9512-39dec6d82a30",
+  "path": "android-sms",
+  "path_key": "android-sms",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "tools"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

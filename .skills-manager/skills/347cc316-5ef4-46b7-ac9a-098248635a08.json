@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "347cc316-5ef4-46b7-ac9a-098248635a08",
+  "path": "xiaohongshu-copywriter",
+  "path_key": "xiaohongshu-copywriter",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "ops",
+    "xhs"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

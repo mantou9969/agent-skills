@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1c5157a-442c-4405-8d2b-4c4ccd5a199c",
+  "path": "video-shotcraft",
+  "path_key": "video-shotcraft",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

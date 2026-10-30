@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "a14fdcf6-3d35-4cb1-9f1c-a381687c905e",
+  "path": "lemo-opuscar",
+  "path_key": "lemo-opuscar",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

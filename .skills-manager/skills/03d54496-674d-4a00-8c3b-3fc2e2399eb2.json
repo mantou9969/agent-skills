@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "03d54496-674d-4a00-8c3b-3fc2e2399eb2",
+  "path": "awesome-ai-image-prompts",
+  "path_key": "awesome-ai-image-prompts",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

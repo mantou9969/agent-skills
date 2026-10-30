@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "6cfcd576-8f22-4f79-b671-1fef88c3c3a5",
+  "path": "product-shots-ad-creative",
+  "path_key": "product-shots-ad-creative",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

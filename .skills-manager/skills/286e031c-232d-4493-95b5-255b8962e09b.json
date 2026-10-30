@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "286e031c-232d-4493-95b5-255b8962e09b",
+  "path": "wtt-code-animation-studio",
+  "path_key": "wtt-code-animation-studio",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

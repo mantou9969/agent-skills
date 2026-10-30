@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "a8ca38bc-8f8d-4129-9e97-760d24ab6b7e",
+  "path": "anything2explainer",
+  "path_key": "anything2explainer",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

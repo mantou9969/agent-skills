@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "4f534a99-cec4-4a20-be08-5089aadf3eba",
+  "path": "lifestyle-scene",
+  "path_key": "lifestyle-scene",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

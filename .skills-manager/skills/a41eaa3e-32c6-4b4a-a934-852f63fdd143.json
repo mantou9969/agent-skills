@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "a41eaa3e-32c6-4b4a-a934-852f63fdd143",
+  "path": "linkpix-ad-film",
+  "path_key": "linkpix-ad-film",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "external-service",
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

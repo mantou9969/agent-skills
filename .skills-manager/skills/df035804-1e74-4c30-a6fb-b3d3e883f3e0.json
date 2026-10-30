@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "df035804-1e74-4c30-a6fb-b3d3e883f3e0",
+  "path": "product-shots-main-image",
+  "path_key": "product-shots-main-image",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

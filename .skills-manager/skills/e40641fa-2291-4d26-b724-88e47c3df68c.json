@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "e40641fa-2291-4d26-b724-88e47c3df68c",
+  "path": "hyperframes-cli",
+  "path_key": "hyperframes-cli",
+  "enabled": true,
+  "tags": [
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

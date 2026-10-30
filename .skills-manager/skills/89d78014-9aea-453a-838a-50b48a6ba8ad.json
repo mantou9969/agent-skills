@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "89d78014-9aea-453a-838a-50b48a6ba8ad",
+  "path": "video-use",
+  "path_key": "video-use",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

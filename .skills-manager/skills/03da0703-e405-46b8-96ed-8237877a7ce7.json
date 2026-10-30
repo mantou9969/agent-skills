@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "03da0703-e405-46b8-96ed-8237877a7ce7",
+  "path": "taobao-detail-long-image",
+  "path_key": "taobao-detail-long-image",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

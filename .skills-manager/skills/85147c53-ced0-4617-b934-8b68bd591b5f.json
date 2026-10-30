@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "85147c53-ced0-4617-b934-8b68bd591b5f",
+  "path": "figma",
+  "path_key": "figma",
+  "enabled": true,
+  "tags": [
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f1efdf3-e6fb-4dd9-bbdd-4a4e7d458b81",
+  "path": "video-to-note",
+  "path_key": "video-to-note",
+  "enabled": true,
+  "tags": [
+    "tools",
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "ea990906-2df9-44e4-b617-3a431d695d84",
+  "name": "电商视觉",
+  "description": "主图、场景、多角度、A+、信息图、尺寸图、封面和社媒视觉",
+  "icon": "🖼️",
+  "sort_order": 999
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "2086b7b6-22c7-4207-8665-23551ec18539",
+  "path": "amazon-a-plus",
+  "path_key": "amazon-a-plus",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

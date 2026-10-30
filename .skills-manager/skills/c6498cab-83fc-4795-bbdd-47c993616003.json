@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6498cab-83fc-4795-bbdd-47c993616003",
+  "path": "xilo-opus-video",
+  "path_key": "xilo-opus-video",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

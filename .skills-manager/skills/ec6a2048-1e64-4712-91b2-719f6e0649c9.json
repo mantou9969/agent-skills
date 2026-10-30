@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec6a2048-1e64-4712-91b2-719f6e0649c9",
+  "path": "beatra-ai-video-studio",
+  "path_key": "beatra-ai-video-studio",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

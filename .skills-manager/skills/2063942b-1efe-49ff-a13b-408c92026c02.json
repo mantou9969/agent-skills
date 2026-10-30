@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "2063942b-1efe-49ff-a13b-408c92026c02",
+  "path": "multi-angle-set",
+  "path_key": "multi-angle-set",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

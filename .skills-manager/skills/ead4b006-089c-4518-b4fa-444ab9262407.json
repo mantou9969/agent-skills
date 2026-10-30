@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ead4b006-089c-4518-b4fa-444ab9262407",
+  "path": "wish-mode",
+  "path_key": "wish-mode",
+  "enabled": true,
+  "tags": [
+    "common"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

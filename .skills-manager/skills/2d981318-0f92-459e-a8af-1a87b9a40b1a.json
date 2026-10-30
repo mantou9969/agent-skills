@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d981318-0f92-459e-a8af-1a87b9a40b1a",
+  "path": "antigravity-image-backend",
+  "path_key": "antigravity-image-backend",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

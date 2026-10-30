@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd9f23ab-106a-4894-aa11-f9052a679729",
+  "path": "ahao-doudian-pro",
+  "path_key": "ahao-doudian-pro",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "ops"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

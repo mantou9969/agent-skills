@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0a643cb-3de4-430e-a4b9-ed2f42e65f8a",
+  "path": "xiaohongshu-publish",
+  "path_key": "xiaohongshu-publish",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "ops",
+    "xhs"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

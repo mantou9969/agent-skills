@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "18b9e6b6-7ecd-4d1c-96d1-a57be79a80f2",
+  "path": "product-shots-multi-angle",
+  "path_key": "product-shots-multi-angle",
+  "enabled": true,
+  "tags": [
+    "image"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

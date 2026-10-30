@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "1aa0c8fc-7874-46e0-b935-2b1a8ff5edd0",
+  "path": "xhs-visual-director",
+  "path_key": "xhs-visual-director",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "image",
+    "ops",
+    "xhs"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

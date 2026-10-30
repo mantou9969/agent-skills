@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "528db515-c2e4-4929-bfa4-10f1a9a44747",
+  "path": "screenshot",
+  "path_key": "screenshot",
+  "enabled": true,
+  "tags": [
+    "common"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

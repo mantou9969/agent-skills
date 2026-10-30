@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "97e99641-e97a-4efb-9a64-8f7a2547eecd",
+  "path": "huashu-art-motion",
+  "path_key": "huashu-art-motion",
+  "enabled": true,
+  "tags": [
+    "entertainment",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

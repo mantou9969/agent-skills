@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "d551c28e-d4db-419a-a39f-09eec64b608f",
+  "path": "linkpix-douyin-viral-video",
+  "path_key": "linkpix-douyin-viral-video",
+  "enabled": true,
+  "tags": [
+    "ecommerce",
+    "external-service",
+    "video"
+  ],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
