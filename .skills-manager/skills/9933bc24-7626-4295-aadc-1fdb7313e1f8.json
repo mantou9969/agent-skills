@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "9933bc24-7626-4295-aadc-1fdb7313e1f8",
+  "path": "stripe-docs",
+  "path_key": "stripe-docs",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
+    "payments"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

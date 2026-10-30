@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "cf8620fc-2239-49df-9362-845ea0909262",
+  "path": "systematic-debugging",
+  "path_key": "systematic-debugging",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "2d42ac85-29ad-421e-b219-b98aa809fcbf",
+  "path": "stripe-best-practices",
+  "path_key": "stripe-best-practices",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
+    "payments"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

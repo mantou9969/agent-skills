@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7d286bd-26ce-4933-88b1-8caa5ef04d18",
+  "path": "figma-use",
+  "path_key": "figma-use",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

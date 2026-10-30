@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "4bff340c-a9ca-49e5-93be-23a772458764",
+  "path": "writing-plans",
+  "path_key": "writing-plans",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

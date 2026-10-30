@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "37222d24-3f32-4cfe-b2d6-8e8e72936b32",
+  "path": "circleci-builds",
+  "path_key": "circleci-builds",
+  "enabled": true,
+  "tags": [
+    "deployment",
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

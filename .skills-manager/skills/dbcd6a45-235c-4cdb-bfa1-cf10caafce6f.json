@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "dbcd6a45-235c-4cdb-bfa1-cf10caafce6f",
+  "path": "troubleshooting",
+  "path_key": "troubleshooting",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

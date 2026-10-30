@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "a324caec-3a1b-4ae9-9dd9-32fc74d1c76a",
+  "path": "design-qa",
+  "path_key": "design-qa",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

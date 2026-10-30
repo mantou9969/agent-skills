@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "846ed0fd-78cb-4b50-bb9b-9ef9a67bfda2",
+  "path": "chrome-devtools-cli",
+  "path_key": "chrome-devtools-cli",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

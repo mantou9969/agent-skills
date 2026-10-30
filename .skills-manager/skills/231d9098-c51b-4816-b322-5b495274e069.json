@@ -5,6 +5,9 @@
   "path_key": "playwright-interactive",
   "enabled": true,
   "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
     "tools"
   ],
   "source": {

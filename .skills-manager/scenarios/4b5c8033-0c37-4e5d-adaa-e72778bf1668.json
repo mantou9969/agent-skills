@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "4b5c8033-0c37-4e5d-adaa-e72778bf1668",
+  "name": "独立站开发",
+  "description": "独立站与代码开发：规划测试、调试、安全扫描、设计转代码、Stripe支付和CircleCI部署",
+  "icon": null,
+  "sort_order": 999
+}

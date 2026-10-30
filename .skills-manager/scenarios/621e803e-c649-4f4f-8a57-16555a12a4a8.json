@@ -1,8 +1,0 @@
-{
-  "schema_version": 1,
-  "scenario_id": "621e803e-c649-4f4f-8a57-16555a12a4a8",
-  "name": "专用工具",
-  "description": "浏览器自动化、架构可视化和视频转笔记；仅在匹配任务时使用",
-  "icon": null,
-  "sort_order": 999
-}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "75c0fc8e-fcef-41fb-b466-5174b5a2951d",
+  "path": "verify-fix",
+  "path_key": "verify-fix",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
+    "security"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

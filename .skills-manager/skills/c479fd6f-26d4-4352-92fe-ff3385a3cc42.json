@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "c479fd6f-26d4-4352-92fe-ff3385a3cc42",
+  "path": "figma-design-to-code",
+  "path_key": "figma-design-to-code",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

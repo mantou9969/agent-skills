@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "afe88ca4-6bd0-4bbd-86ae-f0991dada205",
+  "path": "url-to-code",
+  "path_key": "url-to-code",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "a85d761b-96e6-4808-b4d9-5cabbbb49eee",
+  "path": "security-diff-scan",
+  "path_key": "security-diff-scan",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
+    "security"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "92e36794-6521-4d02-b911-718cef139a01",
+  "path": "requesting-code-review",
+  "path_key": "requesting-code-review",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

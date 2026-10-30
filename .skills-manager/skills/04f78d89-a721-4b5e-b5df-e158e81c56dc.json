@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "skill_id": "04f78d89-a721-4b5e-b5df-e158e81c56dc",
+  "path": "threat-model",
+  "path_key": "threat-model",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site",
+    "security"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "skill_id": "8ea56020-36e7-436c-bde8-879eded18b44",
+  "path": "test-driven-development",
+  "path_key": "test-driven-development",
+  "enabled": true,
+  "tags": [
+    "development",
+    "ecommerce",
+    "independent-site"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
