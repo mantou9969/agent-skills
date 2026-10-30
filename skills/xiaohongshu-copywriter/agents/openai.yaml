@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书文案"
+  short_description: "从真实商品事实写标题、正文和标签"
+  default_prompt: "根据当前商品的真实资料和已审核图片，写一篇自然的小红书笔记，并给出三个标题方案。"

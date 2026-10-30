@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome AI Image Prompts"
+  short_description: "Search 1,000+ image prompt references"
+  default_prompt: "Find product-photography prompt patterns for this product, then adapt them without changing the SKU."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Antigravity Image Backend"
+  short_description: "Render images with the existing Google AI plan"
+  default_prompt: "Render these approved product-image prompts through Antigravity and collect the output files."

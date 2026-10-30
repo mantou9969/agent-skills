@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书店铺搬运控制台"
+  short_description: "从1688选品到小红书出图、审核、上架的本地长任务工作台"
+  default_prompt: "使用 $xiaohongshu-store-console 启动或恢复我的商品搬运流水线。"
