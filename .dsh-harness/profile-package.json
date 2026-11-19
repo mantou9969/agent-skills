@@ -1,0 +1,59 @@
+{
+  "name": "dsh-profile-desktop",
+  "private": true,
+  "dependencies": {
+    "@dsh-cc/plugin-loader": "^0.9.1",
+    "@dsh-external/dsh-blender-plugin": "file:D:/tools/dsh-blender-plugin",
+    "@feng0531/dsh-code-review": "0.83.0",
+    "@goodandready/dsh-plugin-notify": "^0.4.6",
+    "@goodandready/dsh-shadow-auditor": "^0.2.35",
+    "@goodandready/dsh-time-machine": "^0.1.31",
+    "@huanlin/dsh-plugin-mineru": "^0.4.2",
+    "@linxin666/dsh-client-ui-skill-explorer": "^0.4.7",
+    "@linxin666/dsh-client-ui-task-board": "0.4.6",
+    "@liustack/modlens": "3.27.1",
+    "@local/xborder-conversation": "link:D:/gongzuo/10_工作区/dsh-xborder-panel",
+    "@michengai/dsh-agency-agents": "1.2.16",
+    "@michengai/dsh-im-connect": "0.1.77",
+    "@michengai/dsh-skills-manager": "1.1.22",
+    "@yangdcm/dsh-expert-team": "1.5.3",
+    "billion-context": "0.1.216",
+    "dsh-better-sidebar": "0.26.1",
+    "dsh-computer-use-win": "^0.5.0",
+    "dsh-file-review": "^0.8.11",
+    "dsh-nuphus-mcp": "^0.2.1",
+    "dsh-our-free-model": "^2.1.0",
+    "dsh-plugin-install": "^0.4.12",
+    "dsh-plugin-mgr": "^0.2.12",
+    "dsh-plugin-ops-bundle": "^0.20.5",
+    "dsh-purge-community": "file:C:/Users/21878/.dsh/dsh-purge-community/pkgs/a94867e4fee0fe5e7e6a4c0bd9268dbff7bc2d8d4fd9a1435073f30a3b6efed3/dsh-purge-community-1.6.93.tgz",
+    "dshmarket": "1.66.42",
+    "lunheng-article-pipeline": "19.27.13"
+  },
+  "dsh": {
+    "profile": {
+      "bundles": [
+        "@deepseek-ai/dsh-base",
+        "@deepseek-ai/dsh-web-app",
+        "@deepseek-ai/dsh-experimental-agent-team-profile",
+        "@deepseek-ai/dsh-experimental-voice-input-bundle",
+        "dsh-our-free-model",
+        "billion-context",
+        "@liustack/modlens",
+        "dshmarket",
+        "@linxin666/dsh-client-ui-skill-explorer",
+        "dsh-file-review",
+        "dsh-plugin-ops-bundle",
+        "@goodandready/dsh-time-machine",
+        "dsh-plugin-install",
+        "@goodandready/dsh-plugin-notify",
+        "@huanlin/dsh-plugin-mineru",
+        "@feng0531/dsh-code-review",
+        "@goodandready/dsh-shadow-auditor",
+        "dsh-plugin-mgr",
+        "dsh-computer-use-win",
+        "dsh-purge-community"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dc1a852e-5e75-45c2-a57b-340fc28e1dd1",
+  "path": "personal-brand",
+  "path_key": "personal-brand",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "arnabbagxd/brand-building-skills/personal-brand",
+    "subpath": "skills\\personal-brand",
+    "branch": null
+  }
+}

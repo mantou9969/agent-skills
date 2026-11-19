@@ -6,6 +6,7 @@
 
 - 每个顶层目录是一个可直接识别的 Skill，目录内包含 `SKILL.md`。
 - `.skills-manager/` 保存 Skills Manager 使用的来源、Preset 和 Skill 元数据。
+- `.dsh-harness/` 保存本机 DSH（DeepSeek Harness）的插件与开关快照：`cordis.patch.yml`（profile 层插件行）、`profile-package.json` + `bundles.txt` + `dependencies.txt`（插件与版本清单）、`agents.json`（各 agent 的技能部署状态）、`DISABLED.md`（2026-11-19 瘦身记录：关了哪些、为什么、怎么恢复）。
 - `MANIFEST.csv` 保存本次云端快照中的 Skill 清单和文件数量。
 - `snapshot-212-20261030` 标签保留旧版 212 个 Skill 的去重快照。
 

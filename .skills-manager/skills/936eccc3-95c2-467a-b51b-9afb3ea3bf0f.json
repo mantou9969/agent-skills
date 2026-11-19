@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "936eccc3-95c2-467a-b51b-9afb3ea3bf0f",
+  "path": "xhs-douyin-crosspost",
+  "path_key": "xhs-douyin-crosspost",
+  "enabled": true,
+  "tags": [
+    "ops",
+    "video"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

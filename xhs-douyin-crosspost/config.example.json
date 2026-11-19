@@ -1,0 +1,13 @@
+{
+  "cookies_file": "C:/Users/你的用户名/crosspost/secrets/cookies.txt",
+  "cookies_from_browser": "",
+  "encoding": { "width": 1080, "height": 1920, "fps": 30, "video_bitrate": "8M", "audio_bitrate": "128k" },
+  "limits": { "youtube": 180, "instagram": 180 },
+  "daily": { "count": 3, "time": "20:00", "approval": "review_first" },
+  "targets": {
+    "youtube": { "channel": "你的频道名", "privacy": "private" },
+    "instagram": { "username": "你的 IG 账号" }
+  },
+  "youtube_api": { "client_id": "", "client_secret": "", "refresh_token": "" },
+  "instagram_api": { "access_token": "", "ig_user_id": "", "video_url": "" }
+}

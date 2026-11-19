@@ -1,0 +1,107 @@
+# Your patch layer for this dsh profile, applied after every bundle layer:
+# a top-level YAML array of loader patch entries (id-targeted config
+# overrides, disables, and insert lists; `!!js` expressions allowed).
+- id: agent-default-model
+  name: "@deepseek-ai/dsh-agent-default-model"
+  config:
+    provider: deepseek-account
+    model: deepseek-flash
+    reasoningEffort: high
+- id: ui-settings-account
+  name: "@deepseek-ai/dsh-client-ui-settings-account"
+  config:
+    version: 1
+    step: done
+    purpose: development
+    process: detailed
+    completion: completed
+    usage: detailed
+    developerTools: true
+- id: ui-chat
+  name: "@deepseek-ai/dsh-client-ui-chat"
+  config:
+    transcriptView: detailed
+    performanceUsage: detailed
+- id: ui-settings
+  name: "@deepseek-ai/dsh-client-ui-settings"
+  config:
+    enabled: true
+- id: agent-preset-registry
+  name: "@deepseek-ai/dsh-agent-preset-registry"
+  config:
+    default: standard
+    selectedDefault: cordis
+- id: agency-agents
+  name: "@michengai/dsh-agency-agents"
+  config:
+    enabled:
+      - academic-statistician
+      - chief-of-staff
+      - chief-marketing-officer
+      - testing-reality-checker
+      - testing-workflow-optimizer
+      - marketing-tiktok-strategist
+      - marketing-short-video-editing-coach
+      - marketing-carousel-growth-engine
+      - marketing-cross-border-ecommerce
+      - marketing-ecommerce-operator
+      - engineering-network-engineer
+      - design-image-prompt-engineer
+      - design-video-prompt-engineer
+      - marketing-content-creator
+      - marketing-growth-hacker
+      - research-synthesist
+      - marketing-multi-platform-publisher
+    customExperts: []
+    enabledTeams:
+      - team-content
+- id: subagent
+  name: "@deepseek-ai/dsh-subagent"
+  config:
+    maxDepth: 2
+- id: subagent-model-selection-settings
+  name: "@deepseek-ai/dsh-tool-subagent/model-selection-settings"
+  config:
+    enabled: true
+    allowedModels:
+      - provider: modlens-our-free-model
+        model: deepseek-v4.1-flash-free
+      - provider: modlens-our-free-model
+        model: z-ai/glm-5.3
+- id: permission
+  name: "@deepseek-ai/dsh-permission-presets"
+  config:
+    presets:
+      read-only:
+        sandbox: read-only
+        approval: ask
+      workspace-write:
+        sandbox: workspace-write
+        approval: ask
+      danger-full-access:
+        sandbox: danger-full-access
+        approval: never
+    defaultPreset: danger-full-access
+# dsh-plugin-install mount
+- id: dsh-code-review
+  disabled: true
+# dsh-plugin-install mount
+- id: xborder-conversation
+  disabled: true
+- id: tool-result-pruner
+  disabled: false
+# ---- token slim (2026-11-19): 30 天 170 会话零/近零使用的插件行 ----
+# 文档解析（mineru_* 6 个工具，0 次调用）
+- id: dsh-mineru
+  disabled: true
+# 工作区快照（time_machine_* 6 个工具，0 次调用）
+- id: dsh-time-machine
+  disabled: true
+# 沙箱运维（dsh_ops_sandbox_* 7 个工具，2 次调用）
+- id: dsh-ops-bundle
+  disabled: true
+# 多 agent 脚本编排（workflow 1 个超大工具定义，0 次调用）
+- id: tool-workflow
+  disabled: true
+- id: workflow-ptc
+  disabled: true
