@@ -105,3 +105,15 @@
   disabled: true
 - id: workflow-ptc
   disabled: true
+
+# ---- wishcut MCP (2026-11-22)：让本机 DSH 直接说人话剪片 ----
+- id: mcp-wishcut
+  name: '@deepseek-ai/dsh-mcp-client'
+  config:
+    serverName: wishcut
+    transport: stdio
+    command: 'C:\Users\21878\.agent-reach-venv\Scripts\python.exe'
+    args:
+      - 'D:\剪辑\mcp_wishcut.py'
+    toolCallTimeoutMs: 600000
+    failOnStartupError: false

@@ -84,8 +84,8 @@
 # 装回被 undeploy 的技能
 & C:\Users\21878\.skills-manager\bin\skills-manager-cli.exe skills deploy <技能名> --agent deepseek_harness
 
-# 搬回 .agents 下的 11 个目录
-Copy-Item "C:\Users\21878\.dsh\backups\skills-disabled\<时间戳>\agents\*" "C:\Users\21878\.agents\skills\" -Recurse
+# 搬回 .agents 下的 11 个目录（实际备份路径）
+Copy-Item "C:\Users\21878\.dsh\backups\skills-disabled\20261119-193308\agents\*" "C:\Users\21878\.agents\skills\" -Recurse
 
 # 撤销插件禁用
 Copy-Item "C:\Users\21878\.dsh\profiles\desktop\cordis.patch.yml.bak-tokenslim-20261119-193252" `
